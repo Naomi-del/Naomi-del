@@ -1,4 +1,4 @@
-Hello there , I am Naomi Anih. 
+# Hello there , I am Naomi Anih. 
 
 I am a newly qualified data analyst based in Nigeria. 
 
