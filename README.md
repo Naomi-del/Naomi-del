@@ -11,3 +11,9 @@ The tools I primarily use are SQL, Power BI, and Excel.
 I’m looking to collaborate on any beginner-level tasks related to data analysis.
 
 How to reach me: Message me on [LinkedIn](www.linkedin.com/in/naomi-anih)
+
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
