@@ -1,19 +1,35 @@
 # Hello there , I am Naomi Anih. 
+## Data/BI Analyst 
+#### >1 year experience in data analysis + 5 years background in copywriting 
+---
+## Skills
 
-I am a newly qualified data analyst based in Nigeria. 
+1. Data Visualization with Power BI, Tableau, Excel, PowerPoint, Google Data Studio
+2. Data Querying with MySQL, SQL Server Management Studio (SSMS), PostgreSQL
+3. Database Management with SQL
+4. Descriptive Probability and Statistics
+5. Data Modeling with SSIS
+6. Communication and Presentation with Power Point, Google Slides, and Canva.
+   
+---
+## Tools 
 
-I have a strong background in copywriting, which was my job for 4+ years. 
+1. SQL
+2. Python
+3. Microsoft Power BI
+4. Tableau
+5. Microsoft Excel
+6. SSIS
 
-I’m interested in analysis and prediction related to product analytics and user experiences. 
+---
+## Interests 
+1. Business Intelligence and Analytics
+2. Predictive Modeling Related to Product Analytics and User Experiences
+3. Finding Correlations and Relationships in Complex Datasets
 
-The tools I primarily use are SQL, Power BI, and Excel. 
+I’m looking to collaborate on beginner-level data analysis tasks.
 
-I’m looking to collaborate on any beginner-level tasks related to data analysis.
-
-How to reach me: Message me on [LinkedIn](www.linkedin.com/in/naomi-anih)
-
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+---
+## Reach me
+Message me on [LinkedIn](www.linkedin.com/in/naomi-anih)
+Email me at unanih00@gmail.com
