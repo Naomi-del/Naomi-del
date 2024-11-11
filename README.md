@@ -1,6 +1,6 @@
-# Hello there , I am Naomi Anih. 
+# Naomi Anih
 ## Data/BI Analyst 
-#### >1 year experience in data analysis + 5 years background in copywriting 
+#### 2 years experience in data analysis + 5 years background in copywriting 
 ---
 ## Skills
 
